@@ -26,3 +26,6 @@ replay_pid*
 ## etc 필요없는 폴더
 /.vscode/
 /.gradle/
+
+# 이것도??
+.gitattributes
